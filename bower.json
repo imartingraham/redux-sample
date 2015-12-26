@@ -1,0 +1,8 @@
+{
+  "name": "reactjs-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "foundation-sites": "6.1.1",
+    "react": "0.14.3"
+  }
+}
